@@ -5,7 +5,7 @@
  *
  * Created on : Apr 9, 2019
  *
- * Author     : Hesham Hafez
+ * Author     : Ahmed Eldakhly & Hesham Hafez
  *************************************************/
 
 #ifndef STD_TYPES_H_
